@@ -1,0 +1,38 @@
+* {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/564x/af/47/61/af476162f7db73ddd19bbbe52dd6c25c.jpg");
+}
+
+.title {
+  text-align: center;
+  font-size: 8vh;
+  margin-top: -20px;
+  color: #115706;
+}
+
+.backgraund-dog {
+  background-image: url("https://www.seekpng.com/png/full/868-8686117_gatos-y-perros-fondo-blanco.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:contain;
+  margin: 0 auto;
+  width: 80%;
+  height: 200px;
+}
+
+footer {
+  text-align: center;
+  font-size: 4vh;
+  margin-top: 30px;
+  background-color: rgb(252, 242, 229);
+}
+
+.cards {
+  background: rgb(255,251,162);
+  background: linear-gradient(0deg, rgba(255,251,162,1) 0%, rgba(255,225,160,0.7204131652661064) 100%);
+  text-align: center;
+  justify-content: center;
+}
